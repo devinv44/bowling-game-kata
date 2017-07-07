@@ -1,11 +1,4 @@
-
 class Game():
+	def all_gutter_balls(self):
+		return 0
 
-    def roll(pins):
-
-
-    def score():
-
-
-class Frame():
-    
